@@ -1,4 +1,4 @@
-// app/components/LoanApplicationForm.js
+"use client";
 import { useState } from 'react';
 
 export default function LoanApplicationForm() {
